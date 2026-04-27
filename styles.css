@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav {
+    margin: 10px;
+}
+
+section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 10px;
+    width: 60%;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+footer {
+    margin-top: 20px;
+}
