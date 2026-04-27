@@ -22,7 +22,7 @@ section {
 }
 
 ul, ol {
-    list-style-position: inside;
+    list-style-position: center;
 }
 
 table {
